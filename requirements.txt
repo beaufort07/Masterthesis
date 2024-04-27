@@ -17,7 +17,7 @@ chardet==3.0.4
 click==7.1.2
 cloudpickle 
 cycler==0.10.0
-cytoolz==0.10.1
+cytoolz
 dask 
 decorator==4.4.2
 defusedxml==0.6.0
