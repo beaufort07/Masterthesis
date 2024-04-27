@@ -75,7 +75,7 @@ nbformat==5.0.7
 nest-asyncio==1.4.0
 networkx 
 notebook==6.1.4
-numpy==1.19.2
+numpy
 oauthlib==3.1.0
 olefile==0.46
 opt-einsum==3.3.0
